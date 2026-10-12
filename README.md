@@ -29,3 +29,19 @@ A Random Forest Classifier trained using URL-based features.
 
 ## Disclaimer
 Predictions are estimates, not guarantees. A legitimate prediction does not prove a website is safe. Do not enter sensitive information based only on this tool's prediction.
+
+## Download the Trained Model
+
+The trained Random Forest model is available on Google Drive.
+
+[Download the model](https://drive.google.com/file/d/1cdbjN4DHI2rs0wkhNta8lTd165klcOCs/view?usp=sharing)
+
+After downloading, place `phishing_url_detector_consistent.joblib` in the location expected by the notebook.
+
+## Disclaimer
+
+This is an educational phishing-detection prototype. Predictions are estimates and do not guarantee that a website is safe or malicious.
+
+
+
+
